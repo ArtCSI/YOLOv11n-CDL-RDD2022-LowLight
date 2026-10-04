@@ -1,0 +1,7 @@
+{
+  "pool_size": 4000,
+  "train_frac": 0.8,
+  "val_frac": 0.1,
+  "test_frac": 0.1,
+  "split_method": "contiguous_blocks_per_country_sorted_by_filename"
+}
